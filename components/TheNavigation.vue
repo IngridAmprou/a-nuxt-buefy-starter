@@ -4,7 +4,7 @@
       <div class="navbar-brand">            
         <b-button type="is-outlined">
           <b-icon icon="github"></b-icon>              
-          <span><a href="https://github.com/IngridAmprou/" target="_blank">View source</a></span>
+          <span><a href="https://github.com/IngridAmprou/a-nuxt-buefy-starter" target="_blank">View source</a></span>
         </b-button>
         <a
           role="button"

@@ -19,12 +19,12 @@
 <script>
 export default {
   head: {
-    title: 'Portfolio',
+    title: 'Work',
     meta: [
       {
         hid: 'description',
         name: 'description',
-        content: 'Portfolio description'
+        content: 'description'
       }
     ],
   },
