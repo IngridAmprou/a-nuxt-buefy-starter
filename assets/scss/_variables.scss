@@ -1,0 +1,19 @@
+// Set your brand variables
+$primary: #8c67ef;
+$light: #ffffff;
+$black: #010203;
+$link: $black;
+$link-hover: #EE0000;
+$button-border-color: #EE0000;
+$button-hover-color: $black;
+$button-hover-border-color: #EE0000;
+$button-focus-border-color: $light;
+$navbar-box-shadow-color: $black;
+$navbar-box-shadow-size: 0 3px 0 0;
+
+// Links
+
+
+// Import buefy and bulma styles
+@import '~bulma';
+@import '~buefy/src/scss/buefy';
