@@ -27,7 +27,6 @@ export default {
         content: 'description'
       }
     ],
-  },
-  transition: 'bounce',
+  }
 }
 </script>
