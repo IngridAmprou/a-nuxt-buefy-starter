@@ -15,7 +15,7 @@
       </div>
     </div>
     <div class="container pb-6 has-text-centered has-text-white">
-      Minimal starter added with 💚 in Nov. 2020
+      Minimal starter added with 💚 💜
     </div>
   </footer>         
 </template>
