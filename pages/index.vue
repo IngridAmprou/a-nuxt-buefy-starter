@@ -9,17 +9,14 @@
           The lightweight
         </h2>
       </div>
-    </div>
-      <div class="hero-foot">
-
-      </div>      
+    </div>     
   </section>
 </template>
 
 <script>
 export default {
   head: {
-    title: 'Home',
+    title: 'About',
     meta: [
       {
         hid: 'description',
@@ -27,6 +24,7 @@ export default {
         content: 'description'
       }
     ],
-  }
+  },
+  transition: 'bounce',  
 }
 </script>
