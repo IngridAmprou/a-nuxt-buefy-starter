@@ -15,7 +15,7 @@
       </div>
     </div>
     <div class="container pb-6 has-text-centered has-text-white">
-      Basic starter added with 💚 💜
+      A basic starter added with 💚 💜
     </div>
   </footer>         
 </template>
